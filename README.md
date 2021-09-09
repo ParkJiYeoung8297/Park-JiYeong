@@ -10,6 +10,7 @@ I am a student studying computer science.<br>
 <a href="https://www.instagram.com/wldud8297/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ## 🔭 I’m currently working on ...
+- Java Language
 - Python Language
 
 ## 🔥 Experience
@@ -20,4 +21,5 @@ I am a student studying computer science.<br>
 - Certificate of HUFS! START-UP! PYTHON
 
 ## 🛠 Skills
+<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
