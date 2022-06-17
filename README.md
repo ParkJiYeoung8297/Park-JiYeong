@@ -13,6 +13,10 @@ I am a student studying computer science.<br>
 - Java Language
 - Python Language
 
+
+- Also I have skills of making video that I learn in filming club.  
+- https://www.youtube.com/channel/UCoU9NfmP_VvawjRlswN5J4w
+
 ## 🔥 Experience
 - Python Programming Education called "HUFS! START-UP! PYTHON" [21.06~21.08]
 
