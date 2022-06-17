@@ -3,7 +3,7 @@ Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Industry Management engineering,Freshman
+- Hankuk University of Foreign Studies, Industry Management engineering , Computer engineering
 
 ## 📫 How to reach me
 <a href="wldud8297@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
