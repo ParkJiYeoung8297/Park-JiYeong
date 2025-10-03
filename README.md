@@ -1,144 +1,123 @@
-# 수정필요
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20Jiyeong&fontSize=90" width="100%"/>
+</p>
+
+## 안녕하세요 백엔드 개발자 박지영입니다.
+
+## 📂 Profile
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+<table>
+<tr>
+<td width="45%" valign="top">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<h3>🎓 Education</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <ul>
+    <li>한국외국어대학교<br/>
+    <b>컴퓨터공학과 / 산업경영공학과</b> (복수 전공)</li>
+  </ul>
 </div>
 
-###
+</td>
+<td width="45%" valign="top">
+
+<h3>📜 Certifications</h3>
+<div align="left">
+  <ul>
+    <li>🖥 정보처리기사</li>
+    <li>🗄 SQLD (SQL 개발자)</li>
+    <li>🗣 OPIC 영어 IM3</li>
+    <li>📊 데이터분석준전문가(ADSP)</li>
+    <li>💻 컴퓨터활용능력 2급</li>
+  </ul>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" valign="top">
+
+<h3>🏆 Awards</h3>
+<div align="left">
+  <ul>
+    <li><b>컴퓨터공학부 캡스톤 발표회 – 우수상</b><br/>
+    <i>Develop a robust DeepFake detection technique using deep learning</i></li>
+    <li><b>대한산업공학회 한국대학생 산업공학프로젝트 경진대회 – 은상</b><br/>
+    <i>도로명 주소를 활용한 택배 배송 경로 탐색 및 택배 화물 적재 보조 앱 개발</i></li>
+    <li><b>진로탐색 경진대회 – 대상</b><br/>
+    <i>도로명 주소를 활용한 택배 배송 경로 탐색 및 택배 화물 적재 보조 앱 개발</i></li>
+  </ul>
+</div>
+
+</td>
+<td width="45%" valign="top">
+
+<h3>🌏 Activities</h3>
+<div align="left">
+  <ul>
+    <li>👩‍💻 대학생개발연합동아리 UMC – Backend(Spring Boot)</li>
+    <li>🏢 동희 체코 공장 – 해외부품개발 2팀 인턴</li>
+    <li>📚 산업경영공학과 학회 BIGIN – 임원진</li>
+    <li>🎓 한국외국어대학교 공과대학 학생회 – 홍보국장</li>
+    <li>🎥 대학 연합영상동아리 시그널 – 대외협력 팀장</li>
+  </ul>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+##
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div>
+  <img src="https://streak-stats.demolab.com?user=ParkJiYeoung8297&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+##
+
+<h3 align="left">🔹   Top Languages :</h3>
+
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParkJiYeoung8297&theme=chartreuse_dark" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParkJiYeoung8297&theme=chartreuse_dark" width="30%" />
+</p>
 
 
-# 🌟 프로젝트 포트폴리오 - Miho Park
 
-안녕하세요! 저는 **산업공학 + 컴퓨터 프로그래밍**을 전공한 개발자 박지영(Miho)입니다.  
-데이터 분석과 웹/AI 프로젝트 경험을 바탕으로 **실용적인 서비스와 연구 개발**을 진행하고 있습니다.
-
----
-
-## 🔹 기술 스택
-
-| 분야 | 기술 |
-|------|------|
-| Backend | Spring Boot, Django, Flask, Node.js |
-| Frontend | React, Flutter |
-| Database | MySQL, Redis, MongoDB |
-| AI/ML | PyTorch, TensorFlow, OpenCV, LLM, Grad-CAM |
-| DevOps/Cloud | AWS (Lightsail, EC2, RDS), Docker, Jenkins, GitHub Actions |
-| Tools | Git, Postman, VSCode, PyCharm |
-
----
-
-## 🔹 프로젝트
-
-### 1️⃣ DE-Fake it (DeepFake Detection & Explainable AI + LLM)
-**기간:** 2025.02 ~ 진행중  
-**기술 스택:** Python, PyTorch, CNN-LSTM, Grad-CAM, React, Django, JSONL, LLM fine-tuning  
-
-**프로젝트 소개:**  
-딥페이크 영상 여부를 판단하고, Grad-CAM 기반 ROI 분석 결과를 LLM으로 자연어 설명하는 웹 서비스.
-
-**주요 기능:**
-- 영상 업로드 후 첫 프레임 캡처 및 Grad-CAM 시각화
-- 얼굴 특징별 활성도 분석 및 top-10 프레임 선택
-- ROI 기반 점수 계산 후 LLM으로 설명 생성
-- Confusion matrix, ROC, t-SNE 시각화 포함한 평가 파이프라인
-
-**성과 및 학습:**  
-- ResNeXt50, Xception, EfficientNet-B0 모델 활용 멀티태스크 학습
-- CNN-LSTM 구조로 **이진 및 다중 분류** 동시 수행
-- 논문 실험용 데이터셋(FaceForensics++, DFDC, Celeb-DF) 활용 cross-dataset 평가
-
-**📌 시각화 예시:**
-![Grad-CAM 예시](./assets/gradcam_example.png)
-
----
-
-### 2️⃣ Vitacheck (건강 보조제 추천 플랫폼)
-**기간:** 2025.01 ~ 진행중  
-**기술 스택:** Spring Boot, MySQL, Redis, QueryDSL, AWS EC2/RDS, Docker  
-
-**프로젝트 소개:**  
-사용자 맞춤 건강 보조제 추천, 성분별 검색 및 복용량 관리 기능 제공.
-
-**주요 기능:**
-- 성분/브랜드 기반 추천 및 대체 식품 검색
-- Redis 기반 인기 순위 및 사용자 검색 로그 관리
-- DDD/Hexagonal 구조 적용, Ports/Adapters 활용
-- 배치 스케줄러 및 CI/CD 자동화 (Jenkins/GitHub Actions)
-
-**📌 데이터 구조 예시:**
-```json
-{
-  "userId": 12345,
-  "recommendedSupplements": [
-    {"name": "Omega3", "dosage": "1000mg"},
-    {"name": "Vitamin D", "dosage": "2000IU"}
-  ]
-}
-```
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkJiYeoung8297&theme=chartreuse_dark)-->
 
 
-----------
+##
+
+## 📌 대표 프로젝트
+
+| 프로젝트 | 분야 | 사용 기술 | 진행 현황 |
+|----------|--------|-----------|-----|
+| **Vitacheck: 똑똑하게 영양 체크** | 웹 개발 | Spring Boot, MySQL, Redis, AWS | [진행중](https://vitachecking.com/) |
+| **DE-Fake It: Explainable DeepFake Detection with AI & LLMs** | AI | Python, Django, Ollama(LLM) | 완료 |
+| **도로명 주소 기반 택배 배송 경로 탐색 및 화물 적재 보조 앱** | 앱 개발 | Django, 지도 API, Flutter | 완료 |
+
+##
+
+## 📌 기타 프로젝트 / 경험
+
+| 프로젝트/경험 | 분야 | 사용 기술 | 진행 현황 |
+|------------|---------|-----------|-----|
+| 자동차 부품 회사 동화 체크 인턴십 | 데이터 분석 | 데이터 분석 | 완료 |
+| 기상 데이터 기반 항공기 연착 및 지연 예측 서비스 | 딥러닝 | Python, 지도 학습/비지도 학습 모델 | 완료 |
+| 등교 셔틀 교통 분석 및 대안 제시 | 데이터 분석 | Python, 도로 교통 API | 완료 |
+
+
+
+
 
 
